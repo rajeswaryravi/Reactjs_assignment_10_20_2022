@@ -1,0 +1,31 @@
+.employeeaccordian{
+margin-top: 50px;
+}
+.ename{
+    background-color: #d7d5d5;
+    width: 461px;
+    height: 25px;
+    margin-bottom: 25px;
+}
+.eabout{
+    width: 674px;
+    height: 100px;
+    background-color: #d7d5d5;
+    font-size: 0.1rem;
+}
+.accordian_flex
+{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+}
+.emploname{
+    background-color:#edb99e;
+    height: 45px;
+    width: 100%;
+    padding:10px 0px 0px 40px;
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+}
